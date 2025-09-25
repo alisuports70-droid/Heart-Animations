@@ -13,12 +13,6 @@ This project helped me practice **GUI development, event loops, and basic animat
 
 ---
 
-## 📸 Demo
-![demo gif or screenshot here](demo.gif)  
-*(Add a short screen recording or GIF of your heart animation in action.)*
-
----
-
 ## ⚙️ Installation & Usage
 1. Clone the repository:
    ```bash
